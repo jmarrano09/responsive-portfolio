@@ -1,26 +1,7 @@
 * {box-sizing: border-box;
 }
 
-/* Responsive layout */
-@media only screen and (max-width: 980px) {
-    .column {
-        width: 50%;
-    }
-    
-}
 
-/* Responsive layout */
-@media only screen and (max-width: 786px) {
-    .column {
-        width: 100%;
-    }
-    
-}
-
-/* Responsive layout */
-@media only screen and (max-width: 640px) {
-    
-}
 
 
 .menuBar { width: 100%;
@@ -291,7 +272,26 @@ border-width: .9px;
     font-size: 120%;
 }
 
+/* Responsive layout */
+@media only screen and (max-width: 980px) {
+    .column {
+        width: 50%;
+    }
+    
+}
 
+/* Responsive layout */
+@media only screen and (max-width: 786px) {
+    .column {
+        width: 100%;
+    }
+    
+}
+
+/* Responsive layout */
+@media only screen and (max-width: 640px) {
+    
+}
 
 
 
